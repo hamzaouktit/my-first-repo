@@ -29,7 +29,7 @@ const NightMode = () => {
         <h1 className="text-4xl font-bold mb-4">
           {isNight ? "🌙 Mode Nuit Activé" : "☀️ Mode Jour Activé"}
         </h1>
-        <p className="text-lg">Ce thème change automatiquement selon l'heure locale.</p>
+        <p className="text-lg">this theme chane automaticaly</p>
       </div>
     </div>
   );
