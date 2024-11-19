@@ -24,6 +24,7 @@ const NightMode = () => {
      <h1>urfhrcbrfbcurch</h1>
      <h5>hello merrr</h5>
      <p>hello hssay abdo</p>
+     gfryr
       <div className="text-center">
         <h1 className="text-4xl font-bold mb-4">
           {isNight ? "🌙 Mode Nuit Activé" : "☀️ Mode Jour Activé"}
