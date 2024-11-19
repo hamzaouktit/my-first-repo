@@ -78,7 +78,7 @@ return (
   <img src={`https://openweathermap.org/img/wn/${weather.data.weather[0].icon}@2x.png`}
   alt={weather.data.weather[0].description} />
   <p>{Math.round(weather.data.main.temp)}°C</p>
-  <p>Vitesse du vent hsjdzkncer fbc : {weather.data.wind.speed} m/s</p>
+  <p>Vitessee du vent hsjdzkncer fbc : {weather.data.wind.speed} m/s</p>
   
   </div>
   )}
