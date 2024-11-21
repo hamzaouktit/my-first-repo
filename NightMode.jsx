@@ -29,7 +29,7 @@ const NightMode = () => {
         <h1 className="text-4xl font-bold mb-4">
           {isNight ? "🌙 Mode Nuit Activé" : "☀️ Mode Jour Activé"}
         </h1>
-        <p className="text-lg">hamza is a good man with a good heart.</p>
+        <p className="text-lg">hamza is a good man with a very very good heart.</p>
       </div>
     </div>
   );
